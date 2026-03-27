@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "悪魔の取り分",
+  "base_artist": "カロンズベカラズ",
+  "createdAt": "2026-03-27T13:09:47.693479Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悪魔の取り分",
+      "artist": "カロンズベカラズ",
+      "has_synced": false,
+      "path": "select/pl_01_悪魔の取り分_カロンズベカラズ.txt"
+    }
+  ]
+}
